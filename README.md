@@ -55,7 +55,7 @@ El sistema bloquea cualquier orden del usuario. Ni la bomba ni la Peltier se act
 
 ### Diagrama de estados
 
-![Diagrama de estados FSM](docs/DiagramaEstadosPHR.png)
+![Diagrama de estados FSM](docs/DiagramaEstados.png)
 
 ---
 
