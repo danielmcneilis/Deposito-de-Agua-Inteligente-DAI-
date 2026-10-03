@@ -111,10 +111,10 @@ El sistema bloquea cualquier orden del usuario. Ni la bomba ni la Peltier se act
 ---
 
 ## Autores:
-Víctor Romera Oliva
-Daniel McNeilis Franqueza
-Enrique Revieltas Magdalena
-Sergio Valdivieso Yagüe
+- Víctor Romera Oliva
+- Daniel McNeilis Franqueza
+- Enrique Revieltas Magdalena
+- Sergio Valdivieso Yagüe
 
 Desarrollado como proyecto académico.  
 Si tienes dudas o sugerencias, abre un [issue](../../issues).
