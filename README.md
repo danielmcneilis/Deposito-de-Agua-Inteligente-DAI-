@@ -15,6 +15,15 @@ Imagina un bidón de agua conectado a sensores y actuadores. Este sistema:
 
 Todo el control se ejecuta en una FPGA (diseñada en Vivado), sin necesidad de microcontrolador ni ordenador.
 
+
+---
+
+
+## 🎥 Video de presentación
+
+[![Ver el video de presentación](docs/miniatura.png)]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtu.be/03xzefw8Nbg))
+
+
 ---
 
 ## Hardware utilizado
