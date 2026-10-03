@@ -21,7 +21,7 @@ Todo el control se ejecuta en una FPGA (diseñada en Vivado), sin necesidad de m
 
 ## 🎥 Video de presentación
 
-[![Ver el video de presentación](docs/miniatura.png)]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtu.be/03xzefw8Nbg))
+[![Ver el video de presentación](docs/miniaturavideo.png)]([https://www.youtube.com/watch?v=ID_DEL_VIDEO](https://youtu.be/03xzefw8Nbg))
 
 
 ---
