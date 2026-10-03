@@ -62,15 +62,17 @@ El sistema bloquea cualquier orden del usuario. Ni la bomba ni la Peltier se act
 ## Estructura del repositorio
 
 ```
-📁 bidon-inteligente-fpga/
-├── 📁 src/                  # Código fuente VHDL/Verilog
-│   ├── top.vhd              # Módulo principal
-│   ├── fsm_bidon.vhd        # Máquina de estados
-│   └── sensor_hcsr04.vhd   # Driver del sensor HC-SR04
-├── 📁 constraints/          # Archivos .xdc (pines de la FPGA)
-├── 📁 sim/                  # Testbenches y simulaciones
-├── 📁 docs/                 # Documentación e imágenes
-│   └── diagrama_estados.png
+📁 Deposito-de-Agua-Inteligente-DAI-/
+├── 📁 DAI.srcs/                  
+      └── 📁 constraints/                            # Archivos .xdc (pines de la FPGA)
+      └── 📁 sim/                                    # Testbenches y simulaciones
+      └── 📁 sources/                                # Código fuente VHDL
+      └── 📁 utils/         
+├── 📁 docs/                                          # Documentación e imágenes
+      └── diagrama_estados.png                        # Diagrama de estados del sistema
+      └── Deposito de Agua Inteligente.png            # Pancarta de presentación
+      └── PHR26-CIM31-13_FINAL.pdf                    # Memoria del proyecto
+└── DAI.xpr                                           # Programa
 └── README.md
 ```
 
